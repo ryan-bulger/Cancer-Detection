@@ -1,3 +1,5 @@
 *.tif
 *.tfrec
 tfrecords
+*.h5
+*.npy
