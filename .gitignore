@@ -1,5 +1,4 @@
 /train/
-*.csv
 /test/
 /tuning/
 /best_model_weights/
