@@ -1,5 +1,5 @@
-*.tif
-*.tfrec
-tfrecords
-*.h5
-*.npy
+/train/
+*.csv
+/test/
+/tuning/
+/best_model_weights/
